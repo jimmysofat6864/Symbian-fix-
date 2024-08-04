@@ -1,1 +1,1 @@
-https://github.com/fb3ebc69-a5cf-4816-acef-bf0b5d4f550e
+https://github.com/jimmysofat6864/uYouEnhanced/releases/download/v19.18.2-3.0.3-(7)/CACerts.dat
